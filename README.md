@@ -1,6 +1,6 @@
 [Contacto con el CERT.AR]
 
-Para comunicarse a través de un canal seguro con el CERT.AR utilizar la siguiente clave PGP 
+Para comunicarse a través de un canal seguro con el CERT.AR utilizar la siguiente clave PGP. 
 
 [Clave-PGP:](CERT-AR-PGP-2021.asc)  
 > pub   rsa4096/5867F5CC4006E616   2021-01-20 [SC] [expires: 2022-01-20]  
