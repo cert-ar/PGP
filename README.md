@@ -1,4 +1,4 @@
-# [Contacto con el CERT.AR]
+[Contacto con el CERT.AR]
 
 Para comunicarse a través de un canal seguro con el CERT.AR utilizar la siguiente clave PGP 
 
